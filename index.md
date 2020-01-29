@@ -1,6 +1,6 @@
 ## Diagnoser
 
-[Link](https://github.com/tomprof/Diagnoser/releases/latest)
+[Download the latest setup file](https://github.com/tomprof/Diagnoser/releases/latest/download/setup.exe)
 
 You can use the [editor on GitHub](https://github.com/tomprof/myApp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
